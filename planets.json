@@ -17,7 +17,7 @@
   },
   {
     "name": "Earth",
-    "img": "imgs/earth.jpg",
+    "img": "imgs/earth.jpg", 
     "distance": 1,
     "radius": 1,
     "density": 5.52,
